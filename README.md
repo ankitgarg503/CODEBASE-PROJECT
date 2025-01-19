@@ -1,6 +1,6 @@
 <h1>Airbnb</h1>
 <h3>Comprehensive Web Application</h3>
-<p>Explore and discover your perfect getaway with ease. Whether you’re looking for a serene family retreat or an exciting adventure with friends, this platform is your go-to for finding the best places at affordable rates.</p>
+<p>This full-stack web application replicates Airbnb’s core features, allowing users to browse, book, and review accommodations. It includes user registration, profile management, and dynamic listings. Hosts can add properties, manage bookings, and interact with guests. The platform is built using Node.js, Express, and MongoDB. It offers an intuitive UI with EJS templating for dynamic content. The app provides a seamless, secure experience for both hosts and travelers.</p>
 <h3>Come, Explore the Website!&#127881;</h3>
 
 # Technology Stack<br>
@@ -15,6 +15,6 @@
 
 </details>
 Index.ejs
-<img src="https://drive.google.com/file/d/1MBqRVb5MQ5IoQrAIOavJya8fe_Tgsv1g/view?usp=drive_link" alt="listing" width="550">
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/MP11.png" alt="listing" width="550">
 Show.ejs
-<img src="https://drive.google.com/file/d/1YnR5f50aK6p9xt6Dyzl5EZsIN0FkY3AP/view?usp=drive_link" alt="listing" width="550">
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Screenshot%202025-01-19%20184203.png" alt="listing" width="550">
