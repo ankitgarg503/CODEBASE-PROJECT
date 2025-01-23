@@ -18,3 +18,7 @@ Index.ejs
 <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/MP11.png" alt="listing" width="550">
 Show.ejs
 <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Screenshot%202025-01-19%20184203.png" alt="listing" width="550">
+Update Listing
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/edit.png" alt="listing" width="550">
+Delete Listing
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/delete.png" alt="listing" width="550">
