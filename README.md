@@ -22,3 +22,7 @@ Update Listing
 <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/edit.png" alt="listing" width="550">
 Delete Listing
 <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/delete.png" alt="listing" width="550">
+NavBar of AirBnb
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/header.png" alt="listing" width="550">
+Footer of AirBnb
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/footer.png" alt="listing" width="550">
