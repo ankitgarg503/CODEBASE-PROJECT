@@ -88,3 +88,18 @@ body{
     opacity: 0.2;
     background-color: white !important;;
 }
+
+.edit-btn{
+    background-color: #fe424d !important;
+    border: none !important;
+}
+.show-img{
+    height: 30vh;
+}
+.btns{
+    display: flex !important;;
+}
+.show-card{
+    padding-left: 0;
+    padding-right: 0;
+}
