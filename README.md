@@ -14,6 +14,16 @@
   > EJS: Embeds JavaScript logic into HTML for dynamic content rendering.
 
 </details>
+<br>
+<h3>Home Page Of Website </h3>
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/All%20Listing.png" alt="listing" width="550">
+<h3>Adding new Listing in Our Website </h3>
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Add%20new%20Listing.png" alt="listing" width="550">
+<h3>Listing Details </h3>
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Edit%20new%20Listing.png" alt="listing" width="550">
+<h3>Edit Your Listing </h3>
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Edit%20new%20Listing%20Form.png" alt="listing" width="550">
+<br>
 Index.ejs
 <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/MP11.png" alt="listing" width="550">
 Show.ejs
