@@ -17,6 +17,8 @@
 <br>
 <h3>Home Page Of Website </h3>
 <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/All%20Listing.png" alt="listing" width="550">
+<h3>Client Side Validation </h3>
+<img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/client.png" alt="listing" width="550">
 <h3>Adding new Listing in Our Website </h3>
 <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Add%20new%20Listing.png" alt="listing" width="550">
 <h3>Listing Details </h3>
