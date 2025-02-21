@@ -115,6 +115,7 @@ app.delete("/listings/:id",wrapAsync(async(req,res) =>{
 
 
 
+
 // app.get("/testListing", async (req, res) => {
 //      let sampleListing =new Listing({
 //         title:"My new Villa",
@@ -134,10 +135,13 @@ app.all("*",(req,res,next)=>{
 });
 
 
-app.use((err,req,res,next)=>{
-    let {statusCode=500,message="Something went wrong"} = err;
-    res.status(statusCode).send(message);
-})
+app.use((err, req, res, next) => {
+    let { statusCode = 500, message = "Something went wrong" } = err;
+    res.status(statusCode).send("Error: " + message);
+});
+
+
+
 
 app.listen(8080,()=>{
     console.log("listening on server 8080");
