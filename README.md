@@ -62,8 +62,9 @@
   </li>
 
 </ul>
-<h3>Deployment</h3>
-<h5>Deployment is done using Render.</h5>
-<p>
+<!-- <h3>Deployment</h3>
+<!-- <h5>Deployment is done using Render.</h5>
+
 <!--   Website Link: https://wanderhaven.onrender.com/listings -->
-</p>
+
+
