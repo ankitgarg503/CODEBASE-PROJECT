@@ -1,0 +1,13 @@
+<% layout("/layouts/boilerplate") %>
+
+<div class="row">
+    <% if (messages.error) { %>
+        <div class="alert alert-danger col-6 offset-3" role="alert">
+            <%= messages.error %>
+        </div>
+    <% } else { %>
+        <div class="alert alert-danger col-6 offset-3" role="alert">
+            Something went wrong!
+        </div>
+    <% } %>
+</div>
