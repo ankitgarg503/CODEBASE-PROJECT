@@ -60,6 +60,31 @@
   <br><br>
     <img src="https://github.com/ankitgarg503/WanderHaven/assets/114798433/c9fd72f6-c52f-4f4c-82fb-e676eda4202c" alt="listing" width="550"> 
   </li>
+  <li>Edit Your Listing
+  <br><br>
+    <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Edit%20new%20Listing%20Form.png" alt="listing" width="550"> 
+  </li>
+  <li>Delete Listing
+  <br><br>
+    <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Delete%20Listing.png" alt="listing" width="550"> 
+  </li>
+  <li>AirBnb Home Page
+  <br><br>
+    <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Home%20page%20of%20AirBnb.png" alt="listing" width="550"> 
+  </li>
+  <li>Header
+  <br><br>
+    <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/header.png" alt="listing" width="550"> 
+  </li>
+   <li>Footer
+  <br><br>
+    <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/footer.png" alt="listing" width="550"> 
+  </li>
+   <li>Listing Details
+  <br><br>
+    <img src="https://github.com/ankitgarg503/CODEBASE-PROJECT/blob/main/Screenshot%202025-01-19%20184203.png" alt="listing" width="550"> 
+  </li>
+  
 
 </ul>
 <!-- <h3>Deployment</h3>
